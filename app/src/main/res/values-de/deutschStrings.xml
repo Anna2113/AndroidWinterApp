@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Winter App</string>
+
+    <!--Strona startowa-->
+    <string name="hello">Hallo User</string>
+    <string name="option">Hier sind Ihre Optionen</string>
+
+    <!--Opcje-->
+    <string name="guidanceButton">Der Tipp</string>
+    <string name="skiingButton">Das Skifahren</string>
+    <string name="snowboardButton">"Das Snowboard "</string>
+    <string name="equipmentButton">Die Ausrüstung</string>
+    <string name="infoButton">Die Trivia</string>
+    <string name="maps">Die Skigebiete</string>
+
+    <string name="author">Autor: Anna Kozak</string>
+
+    <!--Skiing-->
+    <string name="skiing">Das Skifahren</string>
+    <string name="titleAlpejski">Der Titel</string>
+    <string name="imageOne">Das Bild</string>
+    <string name="alpejski">"Die Beschreibung "</string>
+    <string name="titleKlasyczny">Der Titel</string>
+    <string name="imageTwo">Das Bild</string>
+    <string name="klasyczny">"Die Beschreibung "</string>
+    <string name="titleFreeride">Der Titel</string>
+    <string name="freeride">"Die Beschreibung "</string>
+    <string name="imageThree">Das Bild</string>
+    <string name="titleFreestyle">Der Titel</string>
+    <string name="freestyle">"Die Beschreibung "</string>
+    <string name="imageFour">Das Bild</string>
+
+    <!--Snowboard-->
+    <string name="snowboard">Snowboarding</string>
+    <string name="titleFreestyleSnowboard">Der Titel</string>
+    <string name="freestyleSnowboard">"Die Beschreibung "</string>
+    <string name="imageFive">Das Bild</string>
+    <string name="titleAlpejskiSnowboard">Der Titel</string>
+    <string name="alpejskiSnowboard">"Die Beschreibung "</string>
+    <string name="imageSix">Das Bild</string>
+    <string name="titleFreerideSnowboard">Der Titel</string>
+    <string name="freerideSnowboard">"Die Beschreibung "</string>
+    <string name="imageSeven">Das Bild</string>
+    <string name="titleSnowcross">Der Titel</string>
+    <string name="snowcross">"Die Beschreibung "</string>
+    <string name="imageEight">Das Bild</string>
+
+
+    <!--Maps-->
+    <string name="skiResort">" Die Skigebiete"</string>
+    <string name="skiResortInEuropa">Skigebiete in Europa</string>
+    <string name="skiResortInUSA">Skigebiete in den USA</string>
+    <string name="skiResortInCanada">Skigebiete in Kanada</string>
+    <string name="skiResortInSouthAmerica">Skigebiete in Südamerika</string>
+    <!--Europa-->
+    <string name="austria">"Österreich "</string>
+    <string name="france">Frankreich</string>
+    <string name="spain">Spanien</string>
+    <string name="norway">" Norwegen  "</string>
+    <string name="poland">"Polen "</string>
+    <string name="romania">Rumänien</string>
+    <string name="slovenia">"Slowenien  "</string>
+    <string name="switzerland">"Schweiz "</string>
+    <string name="italy">Italien</string>
+    <!--USA-->
+    <string name="usa">USA</string>
+    <!--Canada-->
+    <string name="canada">Kanada</string>
+    <!--South America-->
+    <string name="chile">Chile</string>
+
+
+    <!--Sprzęt-->
+    <string name="chooseEquipment">"Wähle die Ausrüstung für dich "</string>
+    <string name="inputData">Daten eingeben</string>
+
+    <string name="name">Der Vorname </string>
+    <string name="surname">Der Name</string>
+    <string name="age">Das Alter</string>
+    <string name="sport">Die Disziplin</string>
+    <string name="height">Die Körpergröße</string>
+    <string name="weight">Das Gewicht</string>
+    <string name="footLength">Länge der Füß</string>
+    <string name="gender">Das Geschlecht</string>
+    <string name="level">Fortschrittsniveau</string>
+    <string name="typeOfDriving">Art der Fahrt</string>
+
+    <!--<string name="lengthBoard"></string>
+    <string name="bootSize"></string>
+    <string name="levelSkill"></string>
+
+    <string name="nameFromInput"></string>
+    <string name="surnameFromInput"></string>
+    <string name="ageFromInput"></string>
+    <string name="heightFromInput"></string>
+    <string name="weightFromInput"></string>
+    <string name="footLengthFromInput"></string>
+    <string name="genderFromSpinner"></string>
+    <string name="levelFromSpinner"></string>
+    <string name="typeOfDrivingFromSpinner"></string>
+    <string name="lengthBoardDescribe"></string>
+    <string name="bootSizeDescribe"></string>
+    <string name="levelSkillDescribe"></string>
+    <string name="sportFromSpinner"></string>-->
+
+    <string name="yourEquipment">"Ihre Ausrüstung "</string>
+    <string name="clearButton">Sauber</string>
+
+
+    <!--Edytowanie sprzętu-->
+
+    <string name="parameters">Geben Sie die folgenden Parameter ein</string>
+    <string name="inputName">Geben Sie einen Namen ein</string>
+    <string name="inputSurname">Geben Sie Ihren Namen ein.</string>
+    <string name="inputAge">Bitte geben sie ihr alter ein</string>
+    <string name="inputSport">Eingabe eines Sportnamens</string>
+    <string name="inputHeight">Geben Sie Ihre Körpergröße ein</string>
+    <string name="inputWeight">Geben Sie das Gewicht ein</string>
+    <string name="inputFootLength">Geben Sie die Länge des Fußes ein</string>
+    <string name="inputGender">Geben Sie Ihr Geschlecht ein</string>
+    <string name="women">die Frau</string>
+    <string name="man">"der Mann "</string>
+    <string name="inputLevel">Betreten Sie die Ebene</string>
+    <string-array name="chooseSport">
+        <item></item>
+        <item>Das Snowboard</item>
+        <item>Das Skifahren</item>
+    </string-array>
+
+    <string-array name="chooseLevel">
+        <item></item>
+        <item>Der Anfänger</item>
+        <item>Die Mittelstufe</item>
+        <item>Die Oberstufe</item>
+    </string-array>
+    <string name="inputType">Geben Sie die Art der Fahrt ein</string>
+    <string-array name="chooseTypeOfDriving">
+        <item></item>
+        <item>Snowboard: Freestyle</item>
+        <item>Snowboard: Freeride</item>
+        <item>Snowboard: Styl alpejski</item>
+        <item>Snowboard: Snowcross</item>
+        <item>Skifahren: Freestyle</item>
+        <item>Skifahren: Freeride</item>
+        <item>Skifahren: klassischer Stil</item>
+        <item>Skifahren: alpiner Stil</item>
+    </string-array>
+
+    <string name="addButton">User hinzufügen</string>
+    <string name="deleteButton">User löschenU</string>
+    <string name="findButton">User finden</string>
+    <string name="buttonCheck">Bestätige die Daten</string>
+    <string name="clearForm">Klare Sie das Formular</string>
+
+
+    <!--Wskazówki-->
+
+    <string name="guidance">Lesen Sie vor der Auswahl Ihrer Hardware einige Tipps</string>
+    <string name="snowboardGuidance">Snowboard-Profil</string>
+    <string name="rockerProfile">Der Titel</string>
+    <string name="rockerProfileDescribe">"Die Beschreibung "</string>
+    <string name="flatCamberProfile">Der Titel</string>
+    <string name="flatCamberProfileDescribe">"Die Beschreibung "</string>
+    <string name="camberProfile">Der Titel</string>
+    <string name="camberProfileDescribe">"Die Beschreibung "</string>
+    <string name="hybrydaProfile">Der Titel</string>
+    <string name="hybrydaProfileDescribe">"Die Beschreibung "</string>
+
+    <string name="typeOfBoard">Snowboard-Typen</string>
+    <string name="allMountainType">Der Titel</string>
+    <string name="freerideType">Der Titel</string>
+    <string name="freestyleType">Der Titel</string>
+    <string name="jibbingType">Der Titel</string>
+    <string name="butteringType">Der Titel</string>
+    <string name="freerideTypeDescribe">"Die Beschreibung "</string>
+    <string name="freestyleTypeDescribe">"Die Beschreibung "</string>
+    <string name="allMountainTypeDescribe">"Die Beschreibung "</string>
+    <string name="jibbingTypeDescribe">"Die Beschreibung "</string>
+    <string name="butteringTypeDescribe">"Die Beschreibung "</string>
+
+
+    <string name="skiingGuidance">Tipps für Skifahrer</string>
+
+    <string name="typeOfSki">Arten von Skiern</string>
+    <string name="easycarverType">Der Titel</string>
+    <string name="easycarverTypeDescribe">"Die Beschreibung "</string>
+    <string name="allroundType">Der Titel</string>
+    <string name="allroundTypeDescribe">"Die Beschreibung "</string>
+    <string name="allmountainTypeSki">Der Titel</string>
+    <string name="allmountainTypeSkiDescribe">"Die Beschreibung "</string>
+    <string name="raceType">Der Titel</string>
+    <string name="raceTypeDescribe">"Die Beschreibung "</string>
+    <string name="crosscarverType">Der Titel</string>
+    <string name="crosscarverTypeDescribe">"Die Beschreibung "</string>
+    <string name="freerideTypeSki">Der Titel</string>
+    <string name="freerideTypeSkiDescribe">"Die Beschreibung "</string>
+    <string name="twintipFreestyleType">Der Titel</string>
+    <string name="twintipFreestyleTypeDescribe">"Die Beschreibung "</string>
+    <string name="skitourType">Der Titel</string>
+    <string name="skitourTypeDescribe">"Die Beschreibung "</string>
+
+
+    <!--Ciekawostki-->
+
+    <string name="titleInfo">Interessante Fakten aus der Welt des Sports</string>
+
+    <string name="titleOne">Der Titel</string>
+    <string name="titleTwo">Der Titel</string>
+    <string name="titleThree">Der Titel</string>
+    <string name="info1">der Fakt</string>
+    <string name="info2">der Fakt</string>
+    <string name="info3">der Fakt</string>
+
+    <!--Extra-->
+    <string name="extraButton">Etwas mehr !!!</string>
+    <string name="doYouKnowIt">Weißt du, dass... ???</string>
+    <string name="firstInfo">Wussten Sie, dass ein professioneller Schwimmer in einer einzigen Trainingseinheit etwa 11 Kilometer schwimmen kann?</string>
+    <string name="first">Wussten Sie, dass es eine sehr schnelle Möglichkeit gibt, die Anzahl der gefahrenen Meter oder Kilometer zu berechnen ???</string>
+    <string name="countSwimline">Geben Sie die Anzahl der geschwommenen Schwimmbadlängen ein</string>
+    <string name="lengthSwimline">Geben Sie die Beckenlänge ein</string>
+    <string name="checkButton">Zeige mir!</string>
+    <string name="backBTN">Die Rückkehr</string>
+    <!--<string name="iloscBasenow"></string>
+    <string name="twentyFiveOrFifty"></string>-->
+
+
+    <!--Result-->
+    <string name="count">Anzahl der Schwimmbadlängen</string>
+    <string name="lengthPool">Länge des Pools</string>
+    <string name="meters">Der Meter</string>
+    <string name="kilometers">"Der Kilometer "</string>
+    <string name="policz">Zählen Sie es</string>
+    <string name="back">Die Rückkehr</string>
+    <string name="success">Erfolg ist kein Sprint, sondern ein langer Spaziergang.</string>
+    <!--<string name="metersValue"></string>
+    <string name="kilometresValue"></string>
+    <string name="twentyFiveOrFiftyFromInput"></string>-->
+</resources>
