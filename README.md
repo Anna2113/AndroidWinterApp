@@ -26,3 +26,5 @@
 Następnie po kliknięciu na przycisk „Zatwierdź” użytkownik zostanie przeniesiony do poprzedniej aktywności, w której zostaną wyświetlone wcześniej wprowadzone parametry określające: wzrost, wagę, długość stopy, rodzaj dyscypliny sportowej, poziom zaawansowania oraz styl jazdy użytkownika. Po kliknięciu odpowiedniego przycisku, użytkownik dostanie informacje zwrotne o tym jaki sprzęt jest dla niego w obecnej chwili najlepszy. 
 
 7. Przycisk „Coś ekstra” przekierowujący do nowej aktywności, w której znajduje się krótki formularz na wprowadzenie danych określających ilość przepłyniętych basenów, oraz długość danego basenu. Kiedy dane zostaną wprowadzone, po przyciśnięciu przycisku „Pokaż” otworzy nam się nowa aktywność, do której będą przekazane wcześniej wprowadzone dane, a także przycisk pozwalający na przeliczenie ilości pokonanych basenów o odpowiedniej długości na metry i kilometry.
+
+<img src="Images/screen1.png" alt="screen1" width="300" height="550"> 
