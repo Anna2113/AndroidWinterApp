@@ -10,7 +10,8 @@
 * katalog values-en, w którym znajdują się pliki zawierające deklaracje stringów w języku angielskim;
 * katalog value-pl, w którym znajdują się pliki zawierające deklaracje stringów w języku polskim;
 
-#### Po uruchomieniu aplikacji ukazuje się panel główny aplikacji, gdzie użytkownik ma do wyboru sześć battonów (przycisków) dotyczących temtyki narciasrkiej i snowboardowej oraz jeden button (przycisk) dotyczący dyscypliny sportu jaką jest pływanie. 
+#### Po uruchomieniu aplikacji ukazuje się panel główny aplikacji, gdzie użytkownik ma do wyboru pięć battonów (przycisków) dotyczących temtyki narciasrkiej i snowboardowej  jeden button (przycisk) dotyczący dyscypliny sportu jaką jest pływanie oraz jeden button dotyczący temtyki sportowej. 
+
 1. Przycisk „Narciarstwo”, przekierowujący do nowej 	aktywności, w której znajduje się statyczna część aplikacji, 	omawiająca style narciarstwa.
 
 2. Przycisk „Snowboardnig”, przekierowujący do nowej 	aktywności, w której znajduje się statyczna część aplikacji, 	omawiająca style jazdy na snowboardzie.
@@ -24,4 +25,4 @@
 6. Przycisk „Sprzęt” przekierowujący do nowej aktywności, w której użytkownik ma możliwość przejścia do aktywności, umożliwiającej wprowadzenie danych, potrzebnych do określenia najlepiej dopasowanych parametrów sprzętu narciarskiego lub snowboardowego dla danego użytkownika. Użytkownik ma także możliwość dodania swoich parametrów do bazy danych, wyszukania ich, lub ich usunięcia. A także ma możliwość wyczyszczenia formularza, aby wprowadzić nowe dane. 
 Następnie po kliknięciu na przycisk „Zatwierdź” użytkownik zostanie przeniesiony do poprzedniej aktywności, w której zostaną wyświetlone wcześniej wprowadzone parametry określające: wzrost, wagę, długość stopy, rodzaj dyscypliny sportowej, poziom zaawansowania oraz styl jazdy użytkownika. Po kliknięciu odpowiedniego przycisku, użytkownik dostanie informacje zwrotne o tym jaki sprzęt jest dla niego w obecnej chwili najlepszy. 
 
-7.Przycisk „Coś ekstra” przekierowujący do nowej aktywności, w której znajduje się krótki formularz na wprowadzenie danych określających ilość przepłyniętych basenów, oraz długość danego basenu. Kiedy dane zostaną wprowadzone, po przyciśnięciu przycisku „Pokaż” otworzy nam się nowa aktywność, do której będą przekazane wcześniej wprowadzone dane, a także przycisk pozwalający na przeliczenie ilości pokonanych basenów o odpowiedniej długości na metry i kilometry.
+7. Przycisk „Coś ekstra” przekierowujący do nowej aktywności, w której znajduje się krótki formularz na wprowadzenie danych określających ilość przepłyniętych basenów, oraz długość danego basenu. Kiedy dane zostaną wprowadzone, po przyciśnięciu przycisku „Pokaż” otworzy nam się nowa aktywność, do której będą przekazane wcześniej wprowadzone dane, a także przycisk pozwalający na przeliczenie ilości pokonanych basenów o odpowiedniej długości na metry i kilometry.
