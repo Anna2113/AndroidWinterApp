@@ -18,8 +18,8 @@
 2. The "Snowboardnig" button, redirecting to a new activity with a static part of the app discussing snowboarding styles.
 
 3. The "Tips" button, redirecting to a new activity with a static section of the app discussing types of skiing and snowboarding equipment.
-
-4.The "Trivia" button, redirecting to a new activity with a static section of the app discussing trivia from the world of sports.
+   
+4. The "Trivia" button, redirecting to a new activity with a static section of the app discussing trivia from the world of sports.
 
 5. The "Ski Resorts" button, redirecting to a new activity with buttons that allow you to go to a site showing ski resorts around the world.
 
