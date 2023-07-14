@@ -1,7 +1,8 @@
 # Android WinterApp
-### Android WinterApp - to aplikacja wykonana na system mobilny Android. Aplikacja została wykonana w języku Kotlin oraz Java. 
-#### Po skolonowaniu projektu uruchamiamy projekt w środowsiku przeznaczonym dla systemu Android na przykład Android Studio i w standardowy sposób odpalamy aplikację. 
-#### Struktura projektu opiera się na klasach (aktywnościach) napisanych w jęzku Kotlin oraz w jęzku Java przy czym dane wprowadzane przez użytkownika zapisywane są w bazie danych do, której zarządzania posłużyło system SQLite.
+###Android WinterApp - is an application made for the Android mobile system. The application was made in Kotlin and Java language.
+####After cloning the project, we run the project in an environment designed for Android, for example Android Studio and fire up the application in the standard way.
+####The structure of the project is based on classes (activities) written in Kotlin and Java, while the data entered by the user is stored in a database managed by the SQLite system.
+
 #### Katalog res zawiera:
 * katalog drawable, w którym znajdują się grafiki wykorzystywane w aplikacji;
 * katalog layout, w którym znajduje się 10 (plików zawierających layouty), layoutów (wygląd aktywności)
@@ -10,21 +11,29 @@
 * katalog values-en, w którym znajdują się pliki zawierające deklaracje stringów w języku angielskim;
 * katalog value-pl, w którym znajdują się pliki zawierające deklaracje stringów w języku polskim;
 
-#### Po uruchomieniu aplikacji ukazuje się panel główny aplikacji, gdzie użytkownik ma do wyboru pięć battonów (przycisków) dotyczących temtyki narciasrkiej i snowboardowej  jeden button (przycisk) dotyczący dyscypliny sportu jaką jest pływanie oraz jeden button dotyczący temtyki sportowej. 
+  #### The res directory contains:
+* drawable directory, which contains graphics used in the application;
+* layout directory, which contains 10 (files containing layouts), layouts (the appearance of the activity).
+* values directory, in which there is a file containing declarations of default strings;
+* values-de directory, in which there are files containing string declarations in German;
+* values-en directory, which contains files containing string declarations in English;
+* values-pl directory, which contains files containing string declarations in Polish;
 
-1. Przycisk „Narciarstwo”, przekierowujący do nowej 	aktywności, w której znajduje się statyczna część aplikacji, 	omawiająca style narciarstwa.
+#### After launching the application, the main panel of the application appears, where the user has a choice of five battones (buttons) for skiing and snowboarding topics, one button (button) for the sport of swimming and one button for sports topics. 
 
-2. Przycisk „Snowboardnig”, przekierowujący do nowej 	aktywności, w której znajduje się statyczna część aplikacji, 	omawiająca style jazdy na snowboardzie.
+1. The "Skiing" button, redirecting to a new activity with a static part of the app discussing skiing styles.
 
-3. Przycisk „Wskazówki”, przekierowujący do nowej 	aktywności, w której znajduje się statyczna część aplikacji 	omawiająca rodzaje sprzętu narciarskiego i snowboardowego.
+2. The "Snowboardnig" button, redirecting to a new activity with a static part of the app discussing snowboarding styles.
 
-4. Przycisk „Ciekawostki”, przekierowujący do nowej 	aktywności, w której znajduje się statyczna część aplikacji 	omawiająca ciekawostki ze świata sportu.
+3. The "Tips" button, redirecting to a new activity with a static section of the app discussing types of skiing and snowboarding equipment.
 
-5. Przycisk „Ośrodki narciarskie” przekierowujący do nowej 	aktywności, w której znajdują się przyciski pozwalające na 	przejście do witryny przedstawiającej ośrodki narciarskie na 	świecie.
+4.The "Trivia" button, redirecting to a new activity with a static section of the app discussing trivia from the world of sports.
 
-6. Przycisk „Sprzęt” przekierowujący do nowej aktywności, w której użytkownik ma możliwość przejścia do aktywności, umożliwiającej wprowadzenie danych, potrzebnych do określenia najlepiej dopasowanych parametrów sprzętu narciarskiego lub snowboardowego dla danego użytkownika. Użytkownik ma także możliwość dodania swoich parametrów do bazy danych, wyszukania ich, lub ich usunięcia. A także ma możliwość wyczyszczenia formularza, aby wprowadzić nowe dane. 
-Następnie po kliknięciu na przycisk „Zatwierdź” użytkownik zostanie przeniesiony do poprzedniej aktywności, w której zostaną wyświetlone wcześniej wprowadzone parametry określające: wzrost, wagę, długość stopy, rodzaj dyscypliny sportowej, poziom zaawansowania oraz styl jazdy użytkownika. Po kliknięciu odpowiedniego przycisku, użytkownik dostanie informacje zwrotne o tym jaki sprzęt jest dla niego w obecnej chwili najlepszy. 
+5. The "Ski Resorts" button, redirecting to a new activity with buttons that allow you to go to a site showing ski resorts around the world.
 
-7. Przycisk „Coś ekstra” przekierowujący do nowej aktywności, w której znajduje się krótki formularz na wprowadzenie danych określających ilość przepłyniętych basenów, oraz długość danego basenu. Kiedy dane zostaną wprowadzone, po przyciśnięciu przycisku „Pokaż” otworzy nam się nowa aktywność, do której będą przekazane wcześniej wprowadzone dane, a także przycisk pozwalający na przeliczenie ilości pokonanych basenów o odpowiedniej długości na metry i kilometry.
+6 The "Equipment" button redirects to a new activity, where the user has the option to go to an activity that allows the user to enter the data needed to determine the best-fitting ski or snowboard equipment parameters for the user. The user also has the option to add their parameters to the database, search for them, or delete them. And he also has the option to clear the form to enter new data. 
+Then, after clicking on the "Confirm" button, the user will be taken to the previous activity, which will display the previously entered parameters specifying the user's height, weight, foot length, type of sport, skill level and riding style. After clicking the appropriate button, the user will get feedback on what equipment is best for him at the moment. 
+
+7. Button "Something extra" redirecting to a new activity, where there is a short form for entering data specifying the number of pools swum, and the length of a given pool. Once the data is entered, pressing the "Show" button will open a new activity to which the previously entered data will be transferred, as well as a button that allows us to convert the number of pools swum of the corresponding length into meters and kilometers.
 
 <img src="Images/screen1.png" alt="screen1" width="300" height="550"> 
