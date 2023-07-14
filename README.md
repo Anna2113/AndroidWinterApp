@@ -3,17 +3,9 @@
 ####After cloning the project, we run the project in an environment designed for Android, for example Android Studio and fire up the application in the standard way.
 ####The structure of the project is based on classes (activities) written in Kotlin and Java, while the data entered by the user is stored in a database managed by the SQLite system.
 
-#### Katalog res zawiera:
-* katalog drawable, w którym znajdują się grafiki wykorzystywane w aplikacji;
-* katalog layout, w którym znajduje się 10 (plików zawierających layouty), layoutów (wygląd aktywności)
-* katalog values, w którym znajduje się plik zawierający deklaracje	domyślnych stringów;
-* katalog values-de, w którym znajdują się pliki zawierające deklaracje stringów w języku niemieckim;
-* katalog values-en, w którym znajdują się pliki zawierające deklaracje stringów w języku angielskim;
-* katalog value-pl, w którym znajdują się pliki zawierające deklaracje stringów w języku polskim;
-
-  #### The res directory contains:
+#### The res directory contains:
 * drawable directory, which contains graphics used in the application;
-* layout directory, which contains 10 (files containing layouts), layouts (the appearance of the activity).
+* layout directory, which contains 10 files containing layouts;
 * values directory, in which there is a file containing declarations of default strings;
 * values-de directory, in which there are files containing string declarations in German;
 * values-en directory, which contains files containing string declarations in English;
