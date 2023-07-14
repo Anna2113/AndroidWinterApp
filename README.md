@@ -1,7 +1,7 @@
 # Android WinterApp
-###Android WinterApp - is an application made for the Android mobile system. The application was made in Kotlin and Java language.
-####After cloning the project, we run the project in an environment designed for Android, for example Android Studio and fire up the application in the standard way.
-####The structure of the project is based on classes (activities) written in Kotlin and Java, while the data entered by the user is stored in a database managed by the SQLite system.
+### Android WinterApp - is an application made for the Android mobile system. The application was made in Kotlin and Java language.
+#### After cloning the project, we run the project in an environment designed for Android, for example Android Studio and fire up the application in the standard way.
+#### The structure of the project is based on classes (activities) written in Kotlin and Java, while the data entered by the user is stored in a database managed by the SQLite system.
 
 #### The res directory contains:
 * drawable directory, which contains graphics used in the application;
